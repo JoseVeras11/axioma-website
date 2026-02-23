@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi primer sitio para GitHub</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Mi primer sitio web</h1>
+      <p>Este sitio es ultra básico para practicar GitHub.</p>
+      <ol>
+        <li>Crea un repositorio.</li>
+        <li>Sube estos archivos.</li>
+        <li>Activa GitHub Pages.</li>
+      </ol>
+      <a href="https://github.com" target="_blank" rel="noreferrer">Ir a GitHub</a>
+    </main>
+  </body>
+</html>
