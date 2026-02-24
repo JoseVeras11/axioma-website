@@ -20,11 +20,11 @@ main {
   box-shadow: 0 10px 25px rgba(31, 42, 68, 0.12);
 }
 
-hero {
-  background-image: url("../images/hero.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 80vh;
+.hero { width: 100%; }
+.hero-image{
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 
