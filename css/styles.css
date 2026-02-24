@@ -21,7 +21,7 @@ main {
 }
 
 .hero-image {
-  width: 50%;
+  width: 10%;
   height: auto;
   display: block;
   object-fit: cover;
