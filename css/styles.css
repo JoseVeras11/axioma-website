@@ -23,7 +23,7 @@ main {
 hero-image {
   width: 50px;
   height: auto;
-  display: block;
+  
   object-fit: cover;
 }
 
