@@ -20,7 +20,7 @@ main {
   box-shadow: 0 10px 25px rgba(31, 42, 68, 0.12);
 }
 
-.hero-image {
+hero-image {
   width: 10%;
   height: auto;
   display: block;
